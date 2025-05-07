@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1744283648 source:c:\users\gabriel\documents\programs c codeblocks\computação_grafica_paint2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
